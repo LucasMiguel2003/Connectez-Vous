@@ -29,7 +29,7 @@ Você pode conferir o design da interface no [link do Figma](https://www.figma.c
 
 ## Preview
 
-![Connectez-Vouz](https://connectez-vous-ei5h.vercel.app/)
+![foto-connectez](https://github.com/LucasMiguel2003/Connectez-Vous/assets/127208684/755fa3d9-ab1d-475d-a9fc-fdc896085bb3)
 
 
 ## Deploy
